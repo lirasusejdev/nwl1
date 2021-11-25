@@ -6,9 +6,11 @@
   "author": "lirasusejdev <lis.amaral@grupoboticario.com.br>",
   "license": "MIT",
   "dependencies": {
+    "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-react": "^7.16.0",
+    "@material/button": "^13.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "webpack": "^5.64.1",
